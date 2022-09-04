@@ -1,0 +1,31 @@
+Agregué lo siguiente:
+
+Index:
+
+Descripción:Sitio web de desarrollos industriales para la industria y el ago
+Keywords:vynks, electronica, industria, agos, desarrollos, seguridad, productos, servicios
+Title:Vynks
+
+Productos:
+
+Descripción:Vynks ofrece productos personalizados para la industriales para la industria y el ago
+Keywords:vynks, electronica, industria, agos, desarrollos, seguridad, productos, servicios
+Title:VynksProductos
+
+Servicios:
+
+Descripción:Vynks ofrece servicios personalizados para la industria y el ago
+Keywords:vynks, electronica, industria, agos, desarrollos, seguridad, productos, servicios
+Title:VynksServicios
+
+Contacto:
+
+Descripción:Contacto de Vynks desarrollos electronicos
+Keywords:vynks, electronica, industria, agos, desarrollos, seguridad, productos, servicios
+Title:VynksContacto
+
+Ubicación:
+
+Descripción:Se muestra la ubicación de la empresa Vynks desarrollos electronicos
+Keywords:vynks, electronica, industria, agos, desarrollos, seguridad, productos, servicios
+Title:VynksUbicacion
